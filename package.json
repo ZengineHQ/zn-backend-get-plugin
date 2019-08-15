@@ -1,0 +1,14 @@
+{
+  "name": "@zenginehq/backend-get-plugin",
+  "version": "1.0.0",
+  "description": "Helper library to get the plugin and plugin api client id by namespace",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
